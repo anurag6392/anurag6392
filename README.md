@@ -1,12 +1,8 @@
-- 👋 Hi, I’m Anurag Tiwari
-- 👀 I’m interested in Coding 
-- 🌱 I’m currently learning Python 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Hi there, I'm Anurag! 👋
+What's up, friends! 👋 I'm a computer science student
 
-<!---
-anurag6392/anurag6392 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I LOVE writing code! ❤️ It makes me so happy! 😄 Whether I'm goofing in notebooks 📓 or coding in Python 🐍, writing programs is a blast! 💥 When I'm not geeking out over AI 🤖 with my classmates or building neural networks, 🧠 you can find me buried in statistics textbooks. 📚 I know, what a nerd! 🤓
+
+I'm always down to learn new ways to speak human 🫂 and computer 💻. Making tech more fun is my jam! 🍇
+
+If you want a cheery data buddy 😎 who can make difficult things easy-peasy 🥝 and learning a party 🎉, I'm your guy! 🙋‍♂️
